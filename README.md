@@ -35,14 +35,16 @@ Implementasi database menggunakan MySQL
 Instalasi pustaka Echo untuk backend
 Pengaturan akses basis data di backend
 Konsep algoritma string matching
-Implementasi frontend menggunakan 
+Implementasi frontend menggunakan framework React/Vue
 Pembuatan bonus berupa deployment
 Kesesuaian algoritma yang dibuat dengan pengujian
 Debugging sebelum deployment
 Penerapan bonus berupa persentase kecocokan
 ```
 Hasil keluaran:
-![image](https://user-images.githubusercontent.com/71161031/169676545-785bc436-5b96-45ad-bb9c-0c78c8943976.png)
+
+![image](https://user-images.githubusercontent.com/71161031/169676625-5309f43e-de13-499c-935e-cce8262f0552.png)
+
 
 
 Terinspirasi dari spesifikasi Tugas Besar 2 IF2211 Strategi Algoritma 2022
@@ -64,10 +66,12 @@ Eksplorasi algoritma yang sesuai materi kuliah
 ```
 
 Hasil keluaran:
-![image](https://user-images.githubusercontent.com/71161031/169676551-143fe613-3a2b-40e4-8c5d-26360dc25db3.png)
+
+![image](https://user-images.githubusercontent.com/71161031/169676635-d00de114-5644-41cd-a846-722ecd20db0c.png)
 
 
 
 ## Identitas
 Nama: Owen Christian Wijaya
+
 NIM: 13520124
